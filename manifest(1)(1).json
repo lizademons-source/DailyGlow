@@ -1,0 +1,17 @@
+{
+  "name": "DailyGlow \u2013 Faith \u2022 Mind \u2022 Wellness",
+  "short_name": "DailyGlow",
+  "description": "Daily affirmations, Bible verses, prayers, wellness tools, goals, gratitude and more.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff0f5",
+  "theme_color": "#d95b86",
+  "categories": [
+    "lifestyle",
+    "health",
+    "education"
+  ],
+  "lang": "en"
+}
